@@ -134,6 +134,15 @@
                 'tileSize': 256,
                 'attribution': 'Map tiles designed by Sophia'
             });
+
+            map.addSource('My Theme Tileset', {
+                'type': 'raster',
+                'tiles': [
+                    'assets/Tileset04/{z}/{x}/{y}.png'
+                ],
+                'tileSize': 256,
+                'attribution': 'Map tiles designed by Sophia'
+            });
             // ------ Layer -----
             map.addLayer({
                 'id': 'Base Map',
@@ -162,18 +171,26 @@
                 'source': 'Combined Tileset'
             });
 
+            map.addLayer({
+                'id': 'My Theme',
+                'type': 'raster',
+                'layout': {
+                    'visibility': 'none'
+                },
+                'source': 'My Theme Tileset'
+            });
         });
 
 
         // After the last frame rendered before the map enters an "idle" state.
         map.on('idle', () => {
             // If these two layers were not added to the map, abort
-            if (!map.getLayer('Base Map') || !map.getLayer('Thematic Map') || !map.getLayer('Combined')) {
+            if (!map.getLayer('Base Map') || !map.getLayer('Thematic Map') || !map.getLayer('Combined') || !map.getLayer('My Theme')) {
                 return;
             }
 
             // Enumerate ids of the layers.
-            const toggleableLayerIds = ['Base Map', 'Thematic Map', 'Combined'];
+            const toggleableLayerIds = ['Base Map', 'Thematic Map', 'Combined', 'My Theme'];
 
             // Set up the corresponding toggle button for each layer.
             for (const id of toggleableLayerIds) {
