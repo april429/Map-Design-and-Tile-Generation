@@ -2,9 +2,10 @@
 
 ### [Lab04 Webpage URL](https://april429.github.io/Map-Design-and-Tile-Generation/)
 
-## Examined Geographic Area for All 4 Tilesets
+## Examined Geographic Area
 - City : Seattle
-- Starting Center Point & Zoom Level : Starting center at downtown Seattle (-122.3, 47.6) with starting zoom with 11.7 level. My tileset ranges from minimum 3 to maximum 14 for all four tilesets, so you can vividly see Seattle with the zoom level of 11.7.
+- Starting Center Point & Zoom Level : Starting center at downtown Seattle (-122.3, 47.6) with starting zoom with 11.7 level for all 4 tileset. My tileset ranges from minimum 3 to maximum 14 for all four tilesets, so you can vividly see Seattle with the zoom level of 11.7.
+- Web page elements : I added scale bar and zoom control on the left and right bottom of the web map along with the layers button you can choose to see 4 different maps.
 
 ## 4 Tilesets & Description
 ![Base Map](img/base.png)
