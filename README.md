@@ -5,18 +5,18 @@
 ## Examined Geographic Area : Seattle, centered on 
 
 ## 4 Tilesets & Description
-![Base Map](img/Base Map.png)
+![Base Map](img/base.png)
 - Zoom level : 
 - Description : 
 
-![Thematic Map](img/ThematicMap.png)
+![Thematic Map](img/thematic.png)
 - Zoom level : 
 - Description : 
 
-![Combined Map](img/CombinedMap.png)
+![Combined Map](img/combined.png)
 - Zoom level : 
 - Description : 
 
-![Starbucks Theme Map](img/MyTheme.png)
+![Starbucks Theme Map](img/myTheme.png)
 - Zoom level : 
 - Description : 
