@@ -4,8 +4,8 @@
 
 ## Examined Geographic Area : Seattle, centered on 
 
-## Screenshots
-![Base Map](img/BaseMap.png)
+## 4 Tilesets & Description
+![Base Map](img/Base Map.png)
 - Zoom level : 
 - Description : 
 
