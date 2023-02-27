@@ -5,18 +5,18 @@
 ## Examined Geographic Area : Seattle, centered on 
 
 ## Screenshots
-![Base Map](img/Base Map.png)
+![Base Map](img/BaseMap.png)
 - Zoom level : 
 - Description : 
 
-![Thematic Map](img/Thematic Map.png)
+![Thematic Map](img/ThematicMap.png)
 - Zoom level : 
 - Description : 
 
-![Combined Map](img/Combined Map.png)
+![Combined Map](img/CombinedMap.png)
 - Zoom level : 
 - Description : 
 
-![Starbucks Theme Map](img/My Theme.png)
+![Starbucks Theme Map](img/MyTheme.png)
 - Zoom level : 
 - Description : 
