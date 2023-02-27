@@ -2,10 +2,21 @@
 
 [Lab04 Webpage URL](https://april429.github.io/Map-Design-and-Tile-Generation/)
 
-## Screenshots
-![Base Map](img/choropleth.png)
-![Proportional Symbol map](img/symbol.png)
+## Examined Geographic Area : Seattle, centered on 
 
-- the examined geographic area, and (2 POINTS)
-- the available zoom levels of each tile set (2 POINTS), and
-- brief descriptions of each tile sets (3 POINTS).
+## Screenshots
+![Base Map](img/Base Map.png)
+- Zoom level : 
+- Description : 
+
+![Thematic Map](img/Thematic Map.png)
+- Zoom level : 
+- Description : 
+
+![Combined Map](img/Combined Map.png)
+- Zoom level : 
+- Description : 
+
+![Starbucks Theme Map](img/My Theme.png)
+- Zoom level : 
+- Description : 
